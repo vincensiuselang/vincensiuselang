@@ -2,12 +2,20 @@
 
 ![Vincensiuselang](/GAMBAR/github-header-image.png)
 
-    # 💫 About Me:
-Aspiring ML Engineer & Informatics student who loves building AI projects for fun and impact.  
-Currently learning Machine Learning, Deep Learning, and Mandarin 🇨🇳.  
-I enjoy working on open-source AI tools and making tech more accessible.  
-Also a rapper who codes — dreaming big from Indonesia to the world 🌏
+👋 About Me
+Hi there! I'm Vincensiuselang — an aspiring Machine Learning Engineer and Informatics Engineering student passionate about building AI for real-world impact.
 
+🚀 Currently diving deep into:
+
+Machine Learning & Deep Learning
+
+AI Engineering
+
+Mandarin Chinese 🇨🇳
+
+🎯 I love creating open-source tools and making tech more accessible for everyone.
+
+🎤 Also a rapper who codes — on a mission to go from Indonesia to the world 🌏
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vincensiuselang) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Vintec69) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/swagtutupkuping) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Formylife) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vincensiuselang@gmail.com) 
 

@@ -1,17 +1,17 @@
-## Hey Human! I'm Vincensiuselang 👋
+# Hey Human! I'm Vincensiuselang 👋
 
 ![Vincensiuselang](/GAMBAR/github-header-image.png)
 
-👋 About Me
+## 👋 About Me
 Hi there! I'm Vincensiuselang — an aspiring Machine Learning Engineer and Informatics Engineering student passionate about building AI for real-world impact.
 
 🚀 Currently diving deep into:
 
-Machine Learning & Deep Learning
+- Machine Learning & Deep Learning
 
-AI Engineering
+- AI Engineering
 
-Mandarin Chinese 🇨🇳
+- Mandarin Chinese 🇨🇳
 
 🎯 I love creating open-source tools and making tech more accessible for everyone.
 

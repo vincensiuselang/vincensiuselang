@@ -2,7 +2,7 @@
 
 Informatics Engineering student passionate about Machine Learning, Deep Learning, Data Science, and building practical AI solutions.
 
-I enjoy creating projects that combine technology, automation, and real-world problem solving. Beyond programming, I also make music and rap, blending creativity with technology.
+I enjoy creating projects that combine technology, automation, and real-world problem solving. Beyond programming, I also make music and rap, blending creativigit branchty with technology.
 
 ## 🚀 Currently Learning
 
